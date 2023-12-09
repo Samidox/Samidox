@@ -6,5 +6,4 @@
 *   🤔 Seeking help with optimizing container orchestration in Kubernetes.
 *   💬 Ask me about building scalable infrastructure and automating cloud workflows.
 *   📫 Reach me at [smdrouis@gmail.com](mailto:smdrouis@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/abdessamad-rouiss-19a342213/).
-*   😄 Pronouns: He/Him
-*   
+*   😄 Pronouns: He/Him  
